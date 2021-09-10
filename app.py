@@ -8,7 +8,7 @@ print("starting")
 
 @app.route("/")
 def home():
-    return "<div>Welcome To Flask Application !!!</div>"
+    return "<div>Welcome To Azure Web Services!!!</div>"
 
 
 if __name__ == "__main__":
